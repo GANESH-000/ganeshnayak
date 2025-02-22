@@ -1,4 +1,3 @@
-// Base Product class
 abstract class Product {
     private String name;
     private double price;
